@@ -1,2 +1,2 @@
 # Maze-Navigator
- shortest path finder
+ This project impleaments the shortest path finder algorithm.
